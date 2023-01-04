@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////////////////////////////////
 // Author: Yuki Kakegawa, linkedin.com/in/yukikakegawa, twitter.com/yukithejapanese  //
 // Description:                                                                      //
-//      This script sets a format string of column to currentcy with 0 decimal   //
+//      This sets a format string of a measure to currentcy with 0 decimal           //
 ///////////////////////////////////////////////////////////////////////////////////////
 
 
